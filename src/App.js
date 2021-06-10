@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+
+import GLogin from "./Glogin";
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <GLogin clientId="50789706541-drpqb17d6dh3fqe9imslksmkv5563onh.apps.googleusercontent.com" />
         </a>
       </header>
     </div>
