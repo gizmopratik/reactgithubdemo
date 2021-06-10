@@ -18,7 +18,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          <GLogin clientId="50789706541-drpqb17d6dh3fqe9imslksmkv5563onh.apps.googleusercontent.com" />
+          <GLogin clientId="50789706541-test-drpqb17d6dh3fqe9imslksmkv5563onh.apps.googleusercontent.com" />
         </a>
       </header>
     </div>
